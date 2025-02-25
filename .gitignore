@@ -156,3 +156,6 @@ npm/
 /ctk_database/mongodb/ctk_database.bin
 /pkg/
 /pkg/mod/
+gastype
+gastype.iml
+go.sum
